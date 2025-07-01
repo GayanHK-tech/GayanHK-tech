@@ -1,4 +1,4 @@
-<h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hi, I'm Gayan Hasantha</h1>
+<h1 align="center"> Hi, I'm Gayan Hasantha<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h1>
 <h3 align="center">A passionate Python developer from Sri Lanka, focused on clean code and developer tools</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gayanhk-tech&label=Profile%20views&color=0e75b6&style=flat" alt="gayanhk-tech" /> </p>
