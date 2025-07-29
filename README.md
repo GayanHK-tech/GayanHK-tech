@@ -17,17 +17,17 @@
 
 - 🔭 I'm currently working on **developer-focused automation tools**
 
-- 🌱 I'm currently learning **Advanced API integrations, deployment workflows, and software design patterns in Python**
+- 🌱 I'm currently learning **Advanced API integrations, deployment workflows, and software design patterns**
 
-- 👯 I'm looking to collaborate on **Open-source Python projects, especially related to automation and developer productivity**
+- 👯 I'm looking to collaborate on **Open-source projects, especially related to automation and developer productivity**
 
-- 🤝 I'm looking for help with **Spreading awareness of my developer tools and improving CLI UX for Python scripts**
+- 🤝 I'm looking for help with **Spreading awareness of my developer tools**
 
-- 💬 Ask me about **Python scripting, backend logic, GitHub workflows, or building CLI tools**
+- 💬 Ask me about **frontend logics, GitHub workflows, or devloping projects using AI tools**
 
 - 📫 How to reach me: **Check out my GitHub pinned repositories or connect on LinkedIn**
 
-- ⚡ Fun fact: **I automate almost everything—if I repeat it twice, I write a script for it!**
+- ⚡ Fun fact: **I automate almost everything— using new AI techonologies!**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
