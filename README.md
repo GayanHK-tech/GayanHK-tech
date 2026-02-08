@@ -39,7 +39,7 @@ const Gayan = {
     location: "Kandy, Sri Lanka",
     email: "Gayanhasantha999@gmail.com",
     phone: "+94740919717",
-    code: ["JavaScript", "Python", "Java", "C#", "Dart", "C++"],
+    code: ["JavaScript","TypeScript", "Python", "Java", "C#", "Dart", "C++"],
     askMeAbout: ["web dev", "mobile dev", "DevOps", "IOT", "AI/ML", "ui/ux design"],
     technologies: {
         library: ["React.js", "Flutter"],
